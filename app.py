@@ -34,6 +34,7 @@ chelsea_homepage = """
     <img src="https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg" class="logo">
     <h1>Welcome to Chelsea FC!</h1>
     <p>The Pride of London</p>
+    <p>The Famous Chelsea</p>
     <p>🏆 Champions League Winners | 🏆 Premier League Champions | 🏆 FA Cup Legends</p>
 </body>
 </html>
